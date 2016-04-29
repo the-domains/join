@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Join]]></title>
         <description><![CDATA[Join]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/join/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Apr 2016 05:32:32 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 29 Apr 2016 05:32:40 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/join/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Legacy Love]]></title>
+            <description><![CDATA[<article><h1>Legacy Love</h1><p>Bree's Wedding </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/12fe4464-a43c-43f9-9244-987d4b2fe602.png"></article>]]></description>
+            <link>https://thegrid.ai/join/legacy-love/index.html</link>
+            <guid isPermaLink="false">3457b89c-04c3-4f60-8608-61292cda568a</guid>
+            <pubDate>Fri, 29 Apr 2016 05:32:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Del Dotto Vineyards]]></title>
             <description><![CDATA[<article><h1>Del Dotto Vineyards</h1><p>© Copyright 2015 Del Dotto Vineyards . A Simply Platformed Site</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/379a9203622c54b981848adb64cb464bfdbd3389.png"></article>]]></description>
