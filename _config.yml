@@ -1,0 +1,14 @@
+layout_spectrum: 0.8334346641786397
+typography_spectrum: 0.6126380288042128
+color:
+  brandStrength: 0.8602445886936039
+  lightness: 0.10628201183862984
+  saturation: 0.41938252304680645
+  rhythmicContrast: 0.3164680290501565
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+name: Join
